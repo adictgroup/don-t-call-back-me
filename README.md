@@ -24,6 +24,7 @@
 *	yastatic.net
 *	bitrix24.ru
 *	cashmyvisit.com
+*   perezvoni.com
 
 ##Ссылки:
 
