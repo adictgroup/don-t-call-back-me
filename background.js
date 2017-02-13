@@ -14,6 +14,7 @@ chrome.webRequest.onBeforeRequest.addListener(
             "*://*.cashmyvisit.com/*.js",
             "*://*.roistat.com/*.js",
             "*://*.whitesaas.com/*",
+            "*://*.perezvoni.com/*",
             "*://*.redhelper.ru/*",
             "*://*.pozvonim.com/*"
         ],
