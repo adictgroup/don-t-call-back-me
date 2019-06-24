@@ -26,8 +26,44 @@
 *	cashmyvisit.com
 *   perezvoni.com
 
+Добавлено из плагина [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye)
+
+* intercom.io
+* facebook.net
+* producthunt.com
+* driftt.com
+* crisp.chat
+* intergram.xyz
+* widget.mfy.im
+* connect.podium.com
+* js.usemessages.com
+* getchipbot.com
+* zdassets.com
+* couchbase.com
+* freshchat.com
+* jivosite.com
+* tidio.co
+* user.com
+* livechatinc.com
+* justanswer.com
+* snapengage.com
+* inbenta.io
+* movoto.com
+* zopim.com
+* gubagoo.io
+* ipmaxi.se
+* small.chat
+* smartsupp-widget-161959.c.cdn77.org
+* help.com
+
 ## Ссылки:
 
 Официальный сайт: [dontcallback.me](https://dontcallback.me/)
 
 Разработчик: [ADICT Group](https://adict.ru/)
+
+Благодарность: 
+
+Обновлен список сайтов из плагина Hello-Goodbye.
+
+Если вам нужен плагин для Safari или iOS смотрите: [Hello-Goodbye](https://github.com/bcye/Hello-Goodbye)
