@@ -18,6 +18,9 @@ chrome.webRequest.onBeforeRequest.addListener(
             "*://*.perezvoni.com/*",
             "*://*.redhelper.ru/*",
             "*://*.pozvonim.com/*",
+            "*://cdn.callibri.ru/callibri.js",
+            "*://leadback.ru/js/leadback.js",
+            "*://cdn.carrotquest.io/api.min.js",
             /**
              *  added list of sites from https://github.com/bcye/Hello-Goodbye
              */
